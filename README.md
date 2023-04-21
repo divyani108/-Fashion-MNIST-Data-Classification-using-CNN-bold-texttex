@@ -1,1 +1,1 @@
-# -Fashion-MNIST-Data-Classification-using-CNN-bold-texttex
+# -Fashion-MNIST-Data-Classification-using-CNN-bold-text
